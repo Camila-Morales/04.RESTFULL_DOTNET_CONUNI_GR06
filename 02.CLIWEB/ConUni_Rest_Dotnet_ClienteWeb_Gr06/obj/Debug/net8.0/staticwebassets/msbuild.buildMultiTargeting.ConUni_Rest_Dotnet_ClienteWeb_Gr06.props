@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ConUni_Rest_Dotnet_ClienteWeb_Gr06.props" />
+</Project>
