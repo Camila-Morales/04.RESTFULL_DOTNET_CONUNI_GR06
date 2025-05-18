@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConUni_Rest_Dotnet_ClienteWeb_Gr06")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d0bfbc2d50494cca3a463e52eb9d980caa797d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConUni_Rest_Dotnet_ClienteWeb_Gr06")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConUni_Rest_Dotnet_ClienteWeb_Gr06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,30 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\",
+  "WorkspaceRootPath": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|c:\\users\\ordenador\\documents\\github\\04.restfull_dotnet_conuni_gr06\\01.servidor\\conuni_rest_dotnet_gr06\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|c:\\users\\ordenador\\documents\\github\\04.restfull_dotnet_conuni_gr06\\01.servidor\\conuni_rest_dotnet_gr06\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\services\\conversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:services\\conversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|c:\\users\\ordenador\\documents\\github\\04.restfull_dotnet_conuni_gr06\\01.servidor\\conuni_rest_dotnet_gr06\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|d:\\aquitectura\\soap_sin_dbb_gr06\\04.restfull_dotnet_conuni_gr06\\01.servidor\\conuni_rest_dotnet_gr06\\controllers\\conversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\services\\conversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:services\\conversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|c:\\users\\ordenador\\documents\\github\\04.restfull_dotnet_conuni_gr06\\01.servidor\\conuni_rest_dotnet_gr06\\models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\controllers\\conversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:controllers\\conversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|c:\\users\\ordenador\\documents\\github\\04.restfull_dotnet_conuni_gr06\\01.servidor\\conuni_rest_dotnet_gr06\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|c:\\users\\ordenador\\documents\\github\\04.restfull_dotnet_conuni_gr06\\01.servidor\\conuni_rest_dotnet_gr06\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|c:\\users\\ordenador\\documents\\github\\04.restfull_dotnet_conuni_gr06\\01.servidor\\conuni_rest_dotnet_gr06\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4228C96-13EC-4000-B861-9D451DFAF1AF}|ConUni_Rest_Dotnet_Gr06.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +58,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T03:27:31.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConversionController.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Controllers\\ConversionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ConversionController.cs",
-              "ToolTip": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Controllers\\ConversionController.cs",
-              "RelativeToolTip": "Controllers\\ConversionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Models\\Conversion.cs",
+              "RelativeDocumentMoniker": "Models\\Conversion.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Models\\Conversion.cs",
+              "RelativeToolTip": "Models\\Conversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T03:25:47.671Z",
+              "WhenOpened": "2025-05-17T03:22:12.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:23:09.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversionService.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Services\\ConversionService.cs",
+              "RelativeDocumentMoniker": "Services\\ConversionService.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Services\\ConversionService.cs",
+              "RelativeToolTip": "Services\\ConversionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:24:17.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "LoginService.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Services\\LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Services\\LoginService.cs",
-              "ToolTip": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Services\\LoginService.cs",
               "RelativeToolTip": "Services\\LoginService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,40 +136,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ConversionService.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Services\\ConversionService.cs",
-              "RelativeDocumentMoniker": "Services\\ConversionService.cs",
-              "ToolTip": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Services\\ConversionService.cs",
-              "RelativeToolTip": "Services\\ConversionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T03:24:17.077Z",
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Views\\web.config",
+              "RelativeDocumentMoniker": "Views\\web.config",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Views\\web.config",
+              "RelativeToolTip": "Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-18T02:23:12.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "Models\\Login.cs",
-              "ToolTip": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Models\\Login.cs",
-              "RelativeToolTip": "Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T03:23:09.59Z",
+              "WhenOpened": "2025-05-18T02:23:15.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Conversion.cs",
-              "DocumentMoniker": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Models\\Conversion.cs",
-              "RelativeDocumentMoniker": "Models\\Conversion.cs",
-              "ToolTip": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Models\\Conversion.cs",
-              "RelativeToolTip": "Models\\Conversion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-18T02:23:19.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConversionController.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Controllers\\ConversionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConversionController.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\Controllers\\ConversionController.cs",
+              "RelativeToolTip": "Controllers\\ConversionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T03:22:12.97Z",
+              "WhenOpened": "2025-05-17T03:25:47.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:22:32.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:22:25.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\01.SERVIDOR\\ConUni_Rest_Dotnet_Gr06\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-18T02:23:17.922Z",
               "EditorCaption": ""
             }
           ]

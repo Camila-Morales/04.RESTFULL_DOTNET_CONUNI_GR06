@@ -8,7 +8,8 @@ namespace ConUni_Rest_Dotnet_ClienteWeb_Gr06.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly string apiBaseUrl = "http://192.168.0.122/RestDotnet/api";
+        private readonly string apiBaseUrl = "https://localhost:44364/api";
+
 
         public IActionResult Index()
         {

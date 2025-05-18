@@ -55,23 +55,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Camila\\.nuget\\packages\\": {},
+    "C:\\Users\\Ordenador\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\02.CLIWEB\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj",
+      "projectUniqueName": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\02.CLIWEB\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj",
       "projectName": "ConUni_Rest_Dotnet_ClienteWeb_Gr06",
-      "projectPath": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\02.CLIWEB\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj",
-      "packagesPath": "C:\\Users\\Camila\\.nuget\\packages\\",
-      "outputPath": "D:\\Aquitectura\\SOAP_SIN_DBB_GR06\\04.RESTFULL_DOTNET_CONUNI_GR06\\02.CLIWEB\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\obj\\",
+      "projectPath": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\02.CLIWEB\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj",
+      "packagesPath": "C:\\Users\\Ordenador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ordenador\\Documents\\GitHub\\04.RESTFULL_DOTNET_CONUNI_GR06\\02.CLIWEB\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Camila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ordenador\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -98,7 +98,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -128,7 +128,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
