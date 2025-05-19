@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nB2ETMI6YnTlg9dK/E4lNva3DV0XBnwKZ1HqmoQSRKI=",
+  "Source": "WS_Con_Uni_RESTFULL",
+  "BasePath": "_content/WS_Con_Uni_RESTFULL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WS_Con_Uni_RESTFULL.props" />
+</Project>
