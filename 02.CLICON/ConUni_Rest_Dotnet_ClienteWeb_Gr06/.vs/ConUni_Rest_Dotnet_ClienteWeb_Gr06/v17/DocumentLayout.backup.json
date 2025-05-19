@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|d:\\00. soap_sin_bdd_gr06\\04. restfull_dotnet_conuni_gr06\\02.clicon\\conuni_rest_dotnet_clienteweb_gr06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|d:\\00. soap_sin_bdd_gr06\\04. restfull_dotnet_conuni_gr06\\02.clicon\\conuni_rest_dotnet_clienteweb_gr06\\ec.edu.monster.services\\conversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|solutionrelative:ec.edu.monster.services\\conversionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|d:\\00. soap_sin_bdd_gr06\\04. restfull_dotnet_conuni_gr06\\02.clicon\\conuni_rest_dotnet_clienteweb_gr06\\ec.edu.monster.models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|solutionrelative:ec.edu.monster.models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|d:\\00. soap_sin_bdd_gr06\\04. restfull_dotnet_conuni_gr06\\02.clicon\\conuni_rest_dotnet_clienteweb_gr06\\ec.edu.monster.models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|solutionrelative:ec.edu.monster.models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|d:\\00. soap_sin_bdd_gr06\\04. restfull_dotnet_conuni_gr06\\02.clicon\\conuni_rest_dotnet_clienteweb_gr06\\ec.edu.monster.services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB05E2B-7507-4AB4-ACB6-7E7A167EE9B2}|ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj|solutionrelative:ec.edu.monster.services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ec.edu.monster.services\\LoginService.cs",
+              "RelativeDocumentMoniker": "ec.edu.monster.services\\LoginService.cs",
+              "ToolTip": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ec.edu.monster.services\\LoginService.cs",
+              "RelativeToolTip": "ec.edu.monster.services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:49:19.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversionService.cs",
+              "DocumentMoniker": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ec.edu.monster.services\\ConversionService.cs",
+              "RelativeDocumentMoniker": "ec.edu.monster.services\\ConversionService.cs",
+              "ToolTip": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ec.edu.monster.services\\ConversionService.cs",
+              "RelativeToolTip": "ec.edu.monster.services\\ConversionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:49:05.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ec.edu.monster.models\\Login.cs",
+              "RelativeDocumentMoniker": "ec.edu.monster.models\\Login.cs",
+              "ToolTip": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ec.edu.monster.models\\Login.cs",
+              "RelativeToolTip": "ec.edu.monster.models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:48:42.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ec.edu.monster.models\\Conversion.cs",
+              "RelativeDocumentMoniker": "ec.edu.monster.models\\Conversion.cs",
+              "ToolTip": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\ec.edu.monster.models\\Conversion.cs",
+              "RelativeToolTip": "ec.edu.monster.models\\Conversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:48:32.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\00. SOAP_SIN_BDD_GR06\\04. RESTFULL_DOTNET_CONUNI_GR06\\02.CLICON\\ConUni_Rest_Dotnet_ClienteWeb_Gr06\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:46:48.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

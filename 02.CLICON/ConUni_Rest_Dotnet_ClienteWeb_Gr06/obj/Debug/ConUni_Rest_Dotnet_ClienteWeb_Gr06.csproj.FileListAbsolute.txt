@@ -1,0 +1,10 @@
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\bin\Debug\ConUni_Rest_Dotnet_ClienteWeb_Gr06.exe.config
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\bin\Debug\ConUni_Rest_Dotnet_ClienteWeb_Gr06.exe
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\bin\Debug\ConUni_Rest_Dotnet_ClienteWeb_Gr06.pdb
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\bin\Debug\Newtonsoft.Json.dll
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\bin\Debug\Newtonsoft.Json.xml
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\obj\Debug\ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj.AssemblyReference.cache
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\obj\Debug\ConUni_Rest_Dotnet_ClienteWeb_Gr06.csproj.CoreCompileInputs.cache
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\obj\Debug\ConUni_R.0A4418AC.Up2Date
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\obj\Debug\ConUni_Rest_Dotnet_ClienteWeb_Gr06.exe
+D:\00. SOAP_SIN_BDD_GR06\04. RESTFULL_DOTNET_CONUNI_GR06\02.CLICON\ConUni_Rest_Dotnet_ClienteWeb_Gr06\obj\Debug\ConUni_Rest_Dotnet_ClienteWeb_Gr06.pdb
